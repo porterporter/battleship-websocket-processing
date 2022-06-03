@@ -1,0 +1,5 @@
+gson-2.9.0
+Java-WebSocket-1.5.3
+reload4j-1.2.20
+slf4j-api-1.7.36
+slf4j-reload4j-1.7.36
